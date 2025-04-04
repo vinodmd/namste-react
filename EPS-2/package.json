@@ -1,0 +1,23 @@
+{
+  "name": "eps-2",
+  "version": "1.0.0",
+  "description": "namaste react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "keywords": [
+    "vinod",
+    "namaste",
+    "react"
+  ],
+  "author": "unstable_athma",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  }
+}
